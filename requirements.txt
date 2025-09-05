@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+requests
+Pillow
+python-dateutil
+reportlab
